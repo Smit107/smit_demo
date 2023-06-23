@@ -1,0 +1,6 @@
+{
+    "gitlens.codeLens.enabled": true,
+    "gitlens.codeLens.includeSingleLineSymbols": false,
+    "gitlens.advanced.repositorySearchDepth": 10,
+    "gitlens.views.experimental.multiSelect.enabled": false
+}
